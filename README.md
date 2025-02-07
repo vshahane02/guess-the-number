@@ -24,7 +24,7 @@
 
 
 # Credits
-  This game was created by @saurabhdhumane
+  This game was created by @virendra shahane
   
 # Url
 

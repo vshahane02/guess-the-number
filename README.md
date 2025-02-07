@@ -29,5 +29,5 @@
 # Url
 
 Would You Like To play 
-[Click here] ([https://virendra002.github.io/guess-the-number/])
+[Click here] ([https://virendra02.github.io/guess-the-number/])
 
